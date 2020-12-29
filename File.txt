@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 change for bug1
 change for bug2 fix
+=======
+1)change for bug1
+2)change bug 2
+>>>>>>> bug2
